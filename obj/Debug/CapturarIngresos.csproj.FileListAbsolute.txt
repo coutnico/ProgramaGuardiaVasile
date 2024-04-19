@@ -1,0 +1,138 @@
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\bin\Debug\CapturarIngresos.exe.config
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\bin\Debug\CapturarIngresos.exe
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\bin\Debug\CapturarIngresos.pdb
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\obj\Debug\CapturarIngresos.csproj.AssemblyReference.cache
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\obj\Debug\CapturarIngresos.Properties.Resources.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\obj\Debug\CapturarIngresos.csproj.GenerateResource.cache
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\obj\Debug\CapturarIngresos.csproj.CoreCompileInputs.cache
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\obj\Debug\CapturarIngresos.exe
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\obj\Debug\CapturarIngresos.pdb
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\obj\Debug\CapturarIngresos.PaginaPrincipal.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\obj\Debug\Capturar.892D5CD4.Up2Date
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\obj\Debug\CapturarIngresos.FormularioIngreso.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\obj\Debug\CapturarIngresos.RegistrosGuardados.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\obj\Debug\CapturarIngresos.BMIngresos.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\obj\Debug\CapturarIngresos.AgregarTransportista.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\obj\Debug\CapturarIngresos.BMTransportista.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\bin\Debug\AForge.dll
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\bin\Debug\AForge.Video.dll
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\bin\Debug\AForge.xml
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\bin\Debug\AForge.Video.xml
+C:\Users\Programador2\Desktop\Proyectos Nico\XamarinForms\CapturarIngresos\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\bin\Debug\CapturarIngresos.exe.config
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\bin\Debug\CapturarIngresos.exe
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\bin\Debug\CapturarIngresos.pdb
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\bin\Debug\AForge.dll
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\bin\Debug\AForge.Video.dll
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\bin\Debug\AForge.xml
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\bin\Debug\AForge.Video.xml
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\CapturarIngresos.csproj.AssemblyReference.cache
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\CapturarIngresos.AgregarTransportista.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\CapturarIngresos.BMIngresos.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\CapturarIngresos.BMTransportista.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\CapturarIngresos.FormularioIngreso.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\CapturarIngresos.PaginaPrincipal.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\CapturarIngresos.RegistrosGuardados.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\CapturarIngresos.Properties.Resources.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\CapturarIngresos.csproj.GenerateResource.cache
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\CapturarIngresos.csproj.CoreCompileInputs.cache
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\Capturar.892D5CD4.Up2Date
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\CapturarIngresos.exe
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\CapturarIngresos.pdb
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\CapturarIngresos.GestorEySTransporte.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresos\obj\Debug\CapturarIngresos.Login.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\bin\Debug\CapturarIngresos.exe.config
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\bin\Debug\CapturarIngresos.exe
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\bin\Debug\CapturarIngresos.pdb
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\bin\Debug\AForge.dll
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\bin\Debug\AForge.Video.dll
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\bin\Debug\DotNetDBF.dll
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\bin\Debug\AForge.xml
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\bin\Debug\AForge.Video.xml
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.csproj.AssemblyReference.cache
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.AgregarTransportista.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.BMIngresos.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.BMTransportista.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.FormularioIngreso.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.GestorEySTransporte.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.Login.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.PaginaPrincipal.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.RegistrosGuardados.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.Properties.Resources.resources
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.csproj.GenerateResource.cache
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.csproj.CoreCompileInputs.cache
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\Capturar.892D5CD4.Up2Date
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.exe
+C:\Users\Programador2\Desktop\Proyectos Nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.pdb
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\CapturarIngresos.exe.config
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\CapturarIngresos.exe
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\CapturarIngresos.pdb
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\AForge.dll
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\AForge.Video.DirectShow.dll
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\AForge.Video.dll
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\DotNetDBF.dll
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\FontAwesome.Sharp.dll
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\AForge.xml
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\AForge.Video.xml
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\AForge.Video.DirectShow.xml
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.csproj.AssemblyReference.cache
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.AgregarTransportista.resources
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.BMIngresos.resources
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.BMTransportista.resources
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.FormularioIngreso.resources
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.GestorEySTransporte.resources
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.Login.resources
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.PaginaPrincipal.resources
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.RegistrosGuardados.resources
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.Properties.Resources.resources
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.csproj.GenerateResource.cache
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.csproj.CoreCompileInputs.cache
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\Capturar.892D5CD4.Up2Date
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.exe
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.pdb
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.IngresarSalida.resources
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.EscanerDocumento.resources
+R:\sistemas_nico\CapturarIngresosVMate\bin\Debug\CapturarIngresos.exe.config
+R:\sistemas_nico\CapturarIngresosVMate\bin\Debug\CapturarIngresos.exe
+R:\sistemas_nico\CapturarIngresosVMate\bin\Debug\CapturarIngresos.pdb
+R:\sistemas_nico\CapturarIngresosVMate\bin\Debug\AForge.dll
+R:\sistemas_nico\CapturarIngresosVMate\bin\Debug\AForge.Video.DirectShow.dll
+R:\sistemas_nico\CapturarIngresosVMate\bin\Debug\AForge.Video.dll
+R:\sistemas_nico\CapturarIngresosVMate\bin\Debug\DotNetDBF.dll
+R:\sistemas_nico\CapturarIngresosVMate\bin\Debug\FontAwesome.Sharp.dll
+R:\sistemas_nico\CapturarIngresosVMate\bin\Debug\AForge.xml
+R:\sistemas_nico\CapturarIngresosVMate\bin\Debug\AForge.Video.xml
+R:\sistemas_nico\CapturarIngresosVMate\bin\Debug\AForge.Video.DirectShow.xml
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.csproj.AssemblyReference.cache
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.AgregarTransportista.resources
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.BMIngresos.resources
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.BMTransportista.resources
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.EscanerDocumento.resources
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.FormularioIngreso.resources
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.GestorEySTransporte.resources
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.IngresarSalida.resources
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.Login.resources
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.PaginaPrincipal.resources
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.RegistrosGuardados.resources
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.Properties.Resources.resources
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.csproj.GenerateResource.cache
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.csproj.CoreCompileInputs.cache
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\Capturar.892D5CD4.Up2Date
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.exe
+R:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.pdb
+K:\sistemas_nico\CapturarIngresosVMate\obj\Debug\CapturarIngresos.viewInformes.resources
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\DocumentFormat.OpenXml.dll
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\SpreadsheetLight.dll
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\System.Drawing.Common.dll
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\System.IO.Packaging.dll
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\DocumentFormat.OpenXml.xml
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\SpreadsheetLight.xml
+K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\System.IO.Packaging.xml
