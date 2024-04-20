@@ -136,3 +136,39 @@ K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\System.IO.Packaging.dll
 K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\DocumentFormat.OpenXml.xml
 K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\SpreadsheetLight.xml
 K:\sistemas_nico\CapturarIngresosVMate\bin\Debug\System.IO.Packaging.xml
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\CapturarIngresos.exe.config
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\CapturarIngresos.exe
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\CapturarIngresos.pdb
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\AForge.dll
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\AForge.Video.dll
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\DotNetDBF.dll
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\SpreadsheetLight.dll
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\System.Drawing.Common.dll
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\System.IO.Packaging.dll
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\AForge.xml
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\AForge.Video.xml
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\SpreadsheetLight.xml
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\bin\Debug\System.IO.Packaging.xml
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.csproj.AssemblyReference.cache
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.AgregarTransportista.resources
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.BMIngresos.resources
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.BMTransportista.resources
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.EscanerDocumento.resources
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.FormularioIngreso.resources
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.GestorEySTransporte.resources
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.IngresarSalida.resources
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.Login.resources
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.PaginaPrincipal.resources
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.RegistrosGuardados.resources
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.Properties.Resources.resources
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.viewInformes.resources
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.csproj.GenerateResource.cache
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.csproj.CoreCompileInputs.cache
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.csproj.CopyComplete
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.exe
+C:\Users\nicoo\OneDrive\Desktop\Proyectos Nico\ProgramaGuardiaVasile\obj\Debug\CapturarIngresos.pdb
